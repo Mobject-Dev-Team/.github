@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="./images/logo.svg">
+  <img width="460" height="300" src="./mobject alpha logo.svg">
 </p>
 Pronounced mob-ject. The open source machine object oriented programming framework and guide.
 
