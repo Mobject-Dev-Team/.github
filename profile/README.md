@@ -29,3 +29,7 @@ Please take a look at
 This software is in Alpha. we have decided to make this a public repo so that people can see our work in progress. Do not use this software in production as there will be breaking changes. However, please feel free to contribute, copy and use code. This is a project for my spare time so development time is not fast!
 
 Mobject has been created for TwinCAT. Mobject uses reflection, TwinCAT Pragmas and libraries so porting to other controllers may not be possible.
+
+## Coding style and convention
+
+Mobject follows the styling convention found [here](https://benhar-dev.github.io/coding-convention/#/)
