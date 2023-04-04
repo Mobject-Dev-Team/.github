@@ -1,13 +1,9 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/Mobject-Dev-Team/.github/blob/333a6b1301a8724ff14cbb502dc730bbb1434b55/profile/mobject%20alpha%20logo.svg">
 </p>
-Pronounced mob-ject. The open source machine object oriented programming framework and guide.
+Pronounced mob-ject. The open source machine object oriented programming framework and guide.  
 
-## Important Information
-
-The code stored inside this repo has now been removed. The project has been split in to small easy to maintain repos.
-
-Please take a look at
+## Available libraries
 
 - [mobject-collections](https://mobject-dev-team.github.io/mobject-collections/#/)
 - [mobject-converters](https://mobject-dev-team.github.io/mobject-converters/#/)
