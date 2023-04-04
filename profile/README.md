@@ -10,6 +10,7 @@ The code stored inside this repo has now been removed. The project has been spli
 Please take a look at
 
 - [mobject-disposable](https://mobject-dev-team.github.io/mobject-disposable/#/)
+- [mobject-enumerable](https://mobject-dev-team.github.io/mobject-enumerable/#/)
 - [mobject-events](https://mobject-dev-team.github.io/mobject-events/#/)
 - [mobject-collections](https://mobject-dev-team.github.io/mobject-collections/#/)
 - [mobject-converters](https://mobject-dev-team.github.io/mobject-converters/#/)
