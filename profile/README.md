@@ -15,6 +15,7 @@ Pronounced mob-ject. The open source machine object oriented programming framewo
 ## Coming soon...
 
 - mobject-cyclic
+- [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
 - [mobject-iot](https://github.com/Mobject-Dev-Team/mobject-iot)
 - [mobject-condition-monitoring](https://github.com/Mobject-Dev-Team/mobject-condition-monitoring)
 - mobject-motion
