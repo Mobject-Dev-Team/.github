@@ -3,7 +3,7 @@
 </p>
 Pronounced mob-ject. The open source machine object oriented programming framework and guide.  
 
-## Available libraries
+## Available libraries (In Alpha)
 
 - [mobject-collections](https://mobject-dev-team.github.io/mobject-collections/#/)
 - [mobject-converters](https://mobject-dev-team.github.io/mobject-converters/#/)
@@ -12,10 +12,16 @@ Pronounced mob-ject. The open source machine object oriented programming framewo
 - [mobject-events](https://mobject-dev-team.github.io/mobject-events/#/)
 - [mobject-json](https://mobject-dev-team.github.io/mobject-json/#/)
 
-## Coming soon...
+
+## Mobject Companion App (In Alpha)
+
+- [mobject-app](https://github.com/Mobject-Dev-Team/mobject-app)
+
+## Libraries Coming soon. (These are work in progress, so there will be missing documentation and issues!)
 
 - mobject-cyclic
 - [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
+- [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
 - [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
 - [mobject-iot](https://github.com/Mobject-Dev-Team/mobject-iot)
 - [mobject-condition-monitoring](https://github.com/Mobject-Dev-Team/mobject-condition-monitoring)
