@@ -12,22 +12,22 @@ Pronounced mob-ject. The open source machine object oriented programming framewo
 - [mobject-events](https://mobject-dev-team.github.io/mobject-events/#/)
 - [mobject-json](https://mobject-dev-team.github.io/mobject-json/#/)
 
-
 ## Mobject Companion App (In Alpha)
 
 - [mobject-app](https://github.com/Mobject-Dev-Team/mobject-app)
 
 ## Libraries Coming soon. (These are work in progress, so there will be missing documentation and issues!)
 
-- mobject-cyclic
-- [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
-- [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
-- mobject-promises
-- mobject-iot
-- mobject-condition-monitoring
-- mobject-motion
+- mobject-build-server
 - mobject-documentation-generator (used to create the github library documentation files)
-- CI/CD
+- [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
+- mobject-condition-monitoring
+- mobject-cyclic
+- mobject-iot
+- mobject-motion
+- mobject-promises
+- [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
+- [mobject-server](https://github.com/Mobject-Dev-Team/mobject-server)
 
 ## About this project
 
