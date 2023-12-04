@@ -1,39 +1,30 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Mobject-Dev-Team/.github/blob/333a6b1301a8724ff14cbb502dc730bbb1434b55/profile/mobject%20alpha%20logo.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./logo-light.svg">
+    <img alt="mobject main logo" img width="460" src="logo-light.svg">
+  </picture>
 </p>
-Pronounced mob-ject. The open source machine object oriented programming framework and guide.  
 
-## Available libraries (In Alpha)
+## What is mobject?
 
-- [mobject-collections](https://mobject-dev-team.github.io/mobject-collections/#/)
-- [mobject-converters](https://mobject-dev-team.github.io/mobject-converters/#/)
-- [mobject-disposable](https://mobject-dev-team.github.io/mobject-disposable/#/)
-- [mobject-enumerable](https://mobject-dev-team.github.io/mobject-enumerable/#/)
-- [mobject-events](https://mobject-dev-team.github.io/mobject-events/#/)
-- [mobject-json](https://mobject-dev-team.github.io/mobject-json/#/)
+Pronounced mob-ject.
 
-## Mobject Companion App (In Alpha)
+A sprinkling of OOP is usually enough to simplify and unclutter procedural code. However, the more you apply OOP, the more you find the need to expand it's scope to accommodate functionality which is missing from the language. Hence, mobject was conceived. It's a framework, library and mindset of how problems such as this can be resolved using both pre-written code and examples.
 
-- [mobject-app](https://github.com/Mobject-Dev-Team/mobject-app)
+mobject's goal is to be a lightweight solution to typical oop problems.
 
-## Libraries Coming soon. (These are work in progress, so there will be missing documentation and issues!)
+## Where to find it?
 
-- mobject-build-server
-- mobject-documentation-generator (used to create the github library documentation files)
-- [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
-- mobject-condition-monitoring
-- mobject-cyclic
-- mobject-iot
-- mobject-motion
-- mobject-promises
-- [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
-- [mobject-server](https://github.com/Mobject-Dev-Team/mobject-server)
+The main website for mobject can be found [here](http://mobject.org)
 
-## About this project
+## Important notes regarding this project
 
-This software is in Alpha. we have decided to make this a public repo so that people can see our work in progress. Do not use this software in production as there will be breaking changes. However, please feel free to contribute, copy and use code. This is a project for my spare time so development time is not fast!
+We are currently in the early stages of developing this software. In the spirit of transparency and community collaboration, we have made this a public repository to allow visibility into our ongoing work. Please be aware that this project is in its alpha phase and we strongly advise against using any part of it in production environments. Any decision to implement libraries that are in beta or release stages should be made cautiously and at your own risk.
 
-Mobject has been created for TwinCAT. Mobject uses reflection, TwinCAT Pragmas and libraries so porting to other controllers may not be possible.
+Please feel free to contribute, copy and use code.
+
+Mobject has been created for TwinCAT. Mobject may use reflection, TwinCAT Pragmas and libraries so porting to other controllers may not be possible.
 
 ## Coding style and convention
 
