@@ -1,11 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./logo-light.svg">
-    <img alt="mobject main logo" img width="460" src="logo-light.svg">
-  </picture>
-</p>
-
 ## What is mobject?
 
 Pronounced mob-ject.
